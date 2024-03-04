@@ -25,6 +25,7 @@ When you need a null value in a var, you can use ? to create an optional var. Eg
 <img width="576" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/98030421-e1fd-48dd-8e6f-50afcba20fca">
 <br> Add safty check. 1. Use brain. 2. if statement check<br>
 <img width="598" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/17b80bf2-7fe2-4e3e-aa6e-a3d406539465">
+<br> make sure there's no nil when use !/?
 
 
 
