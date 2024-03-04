@@ -27,6 +27,10 @@ When you need a null value in a var, you can use ? to create an optional var. Eg
 <img width="598" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/17b80bf2-7fe2-4e3e-aa6e-a3d406539465">
 <br> make sure there's no nil when use !/?
 
+# 6. Dictionary alwasy give you an optional result
+Because the key may not exist, so it may give you nil. Use ! to unwrap
+<img width="606" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/c4eee661-aa18-4342-8450-63aac3ef79b5">
+
 
 
 
