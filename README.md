@@ -12,6 +12,10 @@ Autoshrink<br>
 # 3. Switch. Better to use when if else conditions > 5
 <img width="496" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/47ae4d17-e9e4-407e-b345-b4c7ff5115b9">
 
+# 4. Dictionary
+<img width="630" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/fba69ffe-bc51-4262-b7b5-127ef3c7cd11">
+
+
 
 
 
