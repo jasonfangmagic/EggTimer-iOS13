@@ -55,3 +55,23 @@ func loveCalculator3() {
 }
 
 loveCalculator3()
+
+// Dictionary
+
+var dict : [String : Int] = ["Angela" : 892139, "Philipp" : 81273432]
+
+print(dict["Angela"])
+
+//Optional
+
+var player1Username : String? = nil
+
+player1Username = "Jack"
+
+player1Username = nil
+
+//safty check
+if player1Username != nil {
+    print(player1Username!)
+}
+
