@@ -9,6 +9,10 @@ Autoshrink<br>
 # 2. If, Else If
 <img width="940" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/dece6bfb-9c20-4808-b1d6-2d2662acaa78">
 
+# 3. Switch. Better to use when if else conditions > 5
+<img width="496" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/47ae4d17-e9e4-407e-b345-b4c7ff5115b9">
+
+
 
 
 
