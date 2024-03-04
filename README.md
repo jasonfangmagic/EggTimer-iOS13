@@ -1,27 +1,19 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
 
-## Our Goal
+# 1. How to fit more text in the same screen <br>
+Change number of lines to 0 <br>
+<img width="265" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/f27d870d-25e2-4295-b0d0-3b1ed3ca249a"> <br>
+Autoshrink<br>
+<img width="287" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/1d9b40e9-a23e-4f1d-873c-0bd33ed0dc09">
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+# 2. If, Else If
+<img width="940" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/dece6bfb-9c20-4808-b1d6-2d2662acaa78">
 
-## What You'll Make
-
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-
-## What you will learn
-
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
+# 3. Switch. Better to use when if else conditions > 5
+<img width="496" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/47ae4d17-e9e4-407e-b345-b4c7ff5115b9">
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+
 
