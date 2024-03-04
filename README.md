@@ -15,7 +15,8 @@ Autoshrink<br>
 # 4. Dictionary
 <img width="630" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/fba69ffe-bc51-4262-b7b5-127ef3c7cd11">
 
-
+# 5. Optional 
+When you need a null value in a var, you can use ? to create an optional var. Eg: String?
 
 
 
