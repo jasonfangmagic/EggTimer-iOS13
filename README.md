@@ -32,6 +32,9 @@ Because the key may not exist, so it may give you nil. Use ! to unwrap
 <img width="606" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/c4eee661-aa18-4342-8450-63aac3ef79b5">
 
 # 7? Restart the timer with var timer = Timer() 89. 5min
+Need a variable to hold the Timer() class. Then invalidate it and call the class and hold it in a variable.
+<img width="561" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/3170521c-c07f-42ca-abf8-f663da2c5140">
+
 
 
 
