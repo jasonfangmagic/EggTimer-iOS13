@@ -31,6 +31,8 @@ When you need a null value in a var, you can use ? to create an optional var. Eg
 Because the key may not exist, so it may give you nil. Use ! to unwrap
 <img width="606" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/c4eee661-aa18-4342-8450-63aac3ef79b5">
 
+# 7? Restart the timer with var timer = Timer() 89. 5min
+
 
 
 
