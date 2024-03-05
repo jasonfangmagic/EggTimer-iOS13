@@ -12,6 +12,27 @@ Autoshrink<br>
 # 3. Switch. Better to use when if else conditions > 5
 <img width="496" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/47ae4d17-e9e4-407e-b345-b4c7ff5115b9">
 
+# 4. Dictionary
+<img width="630" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/fba69ffe-bc51-4262-b7b5-127ef3c7cd11">
+
+# 5. Optional 
+When you need a null value in a var, you can use ? to create an optional var. Eg: String? <br>
+
+<img width="654" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/db430789-c0dd-425f-8a84-359b83af4f39">
+<br>Use ! to unwrap an optional var. Eg: String! <br>
+<img width="577" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/0df10b6a-97b0-4d5a-b25d-e33243ee72cc">
+<br> Force to unwrap may cause crash <br>
+<img width="576" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/98030421-e1fd-48dd-8e6f-50afcba20fca">
+<br> Add safty check. 1. Use brain. 2. if statement check<br>
+<img width="598" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/17b80bf2-7fe2-4e3e-aa6e-a3d406539465">
+<br> make sure there's no nil when use !/?
+
+# 6. Dictionary alwasy give you an optional result
+Because the key may not exist, so it may give you nil. Use ! to unwrap
+<img width="606" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/c4eee661-aa18-4342-8450-63aac3ef79b5">
+
+
+
 
 
 
