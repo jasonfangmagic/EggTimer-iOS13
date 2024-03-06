@@ -36,7 +36,8 @@ Need a variable to hold the Timer() class. Then invalidate it and call the class
 <img width="561" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/3170521c-c07f-42ca-abf8-f663da2c5140">
 
 # 8. Int/Int can't get a decimal number
-<img width="555" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/1bc0caf9-b949-4979-a194-3140e3341bf7">
+<img width="556" alt="image" src="https://github.com/jasonfangmagic/EggTimer-iOS13/assets/87825019/824f2b98-9179-45ab-8dd4-9d82f82e5fc7">
+
 
 
 
